@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/ProjectEuler2.dir/main.cpp.o  -o ProjectEuler2 
