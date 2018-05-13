@@ -7,43 +7,36 @@ int main() {
     std::chrono::time_point<std::chrono::system_clock> start, end;
     start = std::chrono::system_clock::now();
 
-    std::vector<int> primes = {2, 3};
-    long primeSum = 5;
+    long max = 2000000;
+    bool sieve[2000000] = {false};
 
-    int potentialPrime1, potentialPrime2;
-    bool number1isPrime, number2isPrime;
+    sieve[2] = true;
+    sieve[3] = true;
 
-    for (int i = 6; i < 2000000; i += 6) {
-        potentialPrime1 = i - 1;
-        potentialPrime2 = i + 1;
+    long primeSum = 0;
 
-        number1isPrime = true;
-        number2isPrime = true;
+    for (int x = 1; x < sqrt(max); ++x) {
+        for (int y = 1; y < sqrt(max); ++y) {
 
-        for (int number : primes) {
-            if (number > sqrt(potentialPrime1)) break;
-            else if (potentialPrime1 % number == 0) {
-                number1isPrime = false;
-                break;
-            }
+            long n = (4 * x * x) + (y * y);
+            if (n <= max && (n % 12 == 1 || n % 12 == 5)) sieve[n] ^= true;
+
+            n = (3 * x * x) + (y * y);
+            if (n <= max && n % 12 == 7) sieve[n] ^= true;
+
+            n = (3 * x * x) - (y * y);
+            if (x > y && n <= max && n % 12 == 11) sieve[n] ^= true;
         }
+    }
 
-        for (int number : primes) {
-            if (number > sqrt(potentialPrime2)) break;
-            else if (potentialPrime2 % number == 0) {
-                number2isPrime = false;
-                break;
-            }
+    for (int r = 5; r < sqrt(max); r++) {
+        if (sieve[r]) {
+            for (int i = r * r; i < max; i += r * r) sieve[i] = false;
         }
+    }
 
-        if (number1isPrime) {
-            primes.push_back(potentialPrime1);
-            primeSum += potentialPrime1;
-        }
-        if (number2isPrime) {
-            primes.push_back(potentialPrime2);
-            primeSum += potentialPrime2;
-        }
+    for (int i = 0; i < max; ++i) {
+        if(sieve[i]) primeSum += i;
     }
 
     end = std::chrono::system_clock::now();
