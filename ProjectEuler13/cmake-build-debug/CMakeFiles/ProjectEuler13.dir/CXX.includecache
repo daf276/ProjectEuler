@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/attila/c++_projects/ProjectEuler13/main.cpp
+iostream
+-
+chrono
+-
+string
+-
+cmath
+-
+vector
+-
+

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="ProjectEuler10" targetName="ProjectEuler10" />
+      <config projectName="ProjectEuler12" targetName="ProjectEuler12" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -12,7 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="093e7baf-0545-4156-82bd-374a6759d278" name="Default" comment="" />
+    <list default="true" id="d93eee6f-c8f4-4de7-aec2-1dc800ee684d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/cmake-build-release/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,12 +24,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Release" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+            <state relative-caret-position="330">
+              <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -37,7 +37,17 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>std::</find>
+    </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -56,7 +66,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="965" />
+    <option name="x" value="6" />
     <option name="y" value="-16" />
     <option name="width" value="949" />
     <option name="height" value="1055" />
@@ -71,8 +81,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="ProjectEuler10" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectEuler10" type="462c0819:PsiDirectoryNode" />
+              <item name="ProjectEuler12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectEuler12" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -82,10 +92,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjectEuler12/main.cpp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjectEuler10" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -99,12 +109,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProjectEuler10">
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ProjectEuler10" RUN_TARGET_NAME="ProjectEuler10" EXPLICIT_BUILD_TARGET_NAME="all" />
-    <configuration name="ProjectEuler10" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ProjectEuler10" TARGET_NAME="ProjectEuler10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ProjectEuler10" RUN_TARGET_NAME="ProjectEuler10" />
+  <component name="RunManager" selected="Application.ProjectEuler12">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ProjectEuler12" RUN_TARGET_NAME="ProjectEuler12" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="ProjectEuler12" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ProjectEuler12" TARGET_NAME="ProjectEuler12" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ProjectEuler12" RUN_TARGET_NAME="ProjectEuler12" />
     <list>
       <item itemvalue="Application.Build All" />
-      <item itemvalue="Application.ProjectEuler10" />
+      <item itemvalue="Application.ProjectEuler12" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -112,43 +122,38 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="093e7baf-0545-4156-82bd-374a6759d278" name="Default" comment="" />
-      <created>1525630989374</created>
+      <changelist id="d93eee6f-c8f4-4de7-aec2-1dc800ee684d" name="Default" comment="" />
+      <created>1526493316169</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1525630989374</updated>
-      <workItem from="1525630990432" duration="17000" />
-      <workItem from="1525631008415" duration="20000" />
-      <workItem from="1525631035674" duration="2359000" />
-      <workItem from="1525633569673" duration="217000" />
-      <workItem from="1526246061543" duration="3501000" />
-      <workItem from="1526493427358" duration="55000" />
-      <workItem from="1526494179339" duration="11000" />
+      <updated>1526493316169</updated>
+      <workItem from="1526493317629" duration="109000" />
+      <workItem from="1526493482961" duration="3221000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6180000" />
+    <option name="totallyTimeSpent" value="3330000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="965" y="-16" width="949" height="1055" extended-state="0" />
+    <frame x="6" y="-16" width="949" height="1055" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24920802" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24920802" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.32817337" />
       <window_info anchor="bottom" id="CMake" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32920536" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32879582" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4052356" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32920536" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -162,44 +167,37 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/ProjectEuler12.cbp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-846" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5353" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        <state relative-caret-position="330">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
