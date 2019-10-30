@@ -1,3 +1,0 @@
-/home/attila/c++_projects/ProjectEuler12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/attila/c++_projects/ProjectEuler12/cmake-build-debug/CMakeFiles/ProjectEuler12.dir
-/home/attila/c++_projects/ProjectEuler12/cmake-build-debug/CMakeFiles/edit_cache.dir
