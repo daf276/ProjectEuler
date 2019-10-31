@@ -5,203 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35a61e96-3f2b-41ec-823e-7f64fae7d599" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ProjectEuler4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/.cargo-lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/ProjectEuler5-41c37b9ff50e4488/bin-ProjectEuler5-41c37b9ff50e4488" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/ProjectEuler5-41c37b9ff50e4488/bin-ProjectEuler5-41c37b9ff50e4488.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/ProjectEuler5-41c37b9ff50e4488/dep-bin-ProjectEuler5-41c37b9ff50e4488" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/ProjectEuler5-41c37b9ff50e4488/invoked.timestamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/ProjectEuler5.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/ProjectEuler5.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/ProjectEuler5.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/deps/ProjectEuler5-41c37b9ff50e4488.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/deps/ProjectEuler5-41c37b9ff50e4488.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/deps/ProjectEuler5-41c37b9ff50e4488.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectEuler3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectEuler3/ProjectEuler3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler3/ProjectEuler3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/.idea/ProjectEuler4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler4/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler4/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/3.10.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/3.10.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/3.10.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/ProjectEuler4.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/ProjectEuler4.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/ProjectEuler4.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/ProjectEuler4.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/ProjectEuler4.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/ProjectEuler4.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/ProjectEuler4.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/ProjectEuler4.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/ProjectEuler4.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/ProjectEuler4.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/ProjectEuler4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/ProjectEuler4.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/3.10.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/3.10.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/3.10.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/3.10.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/3.10.3/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/3.10.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/3.10.3/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/ProjectEuler4.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/ProjectEuler4.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/ProjectEuler4.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/ProjectEuler4.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/ProjectEuler4.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/ProjectEuler4.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/ProjectEuler4.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/ProjectEuler4.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/ProjectEuler4.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/ProjectEuler4.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/feature_tests.cxx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/ProjectEuler4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/ProjectEuler4.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/cmake-build-release/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectEuler4/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ProjectEuler5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler5.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler5.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler5.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler5.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler5.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler5.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler5.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler5.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler5.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler5.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/smallestMultiple.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/smallestMultiple.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/smallestMultiple.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/smallestMultiple.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/smallestMultiple.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/smallestMultiple.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/smallestMultiple.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/smallestMultiple.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/smallestMultiple.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/smallestMultiple.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProjectEuler5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProjectEuler5.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/smallestMultiple" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.10.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.10.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.10.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.10.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.10.3/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.10.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.10.3/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler5.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler5.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler5.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler5.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler5.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler5.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler5.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler5.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler5.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler5.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/feature_tests.cxx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/smallestMultiple.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/smallestMultiple.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/smallestMultiple.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/smallestMultiple.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/smallestMultiple.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/smallestMultiple.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/smallestMultiple.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/smallestMultiple.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/smallestMultiple.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/smallestMultiple.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/ProjectEuler5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/ProjectEuler5.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/smallestMultiple" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -273,6 +78,7 @@
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -285,6 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572223876866</updated>
       <workItem from="1572223878219" duration="4456000" />
+      <workItem from="1572238928584" duration="15000" />
     </task>
     <servers />
   </component>
@@ -296,7 +103,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

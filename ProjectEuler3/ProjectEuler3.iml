@@ -7,7 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../ProjectEuler3\examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../ProjectEuler3\tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../ProjectEuler3\benches" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/../ProjectEuler3\target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

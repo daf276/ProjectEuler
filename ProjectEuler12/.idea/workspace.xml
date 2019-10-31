@@ -5,7 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5aaeadae-2ebb-43da-821b-a107b8c1dc32" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler1/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/ProjectEuler1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler1/target/debug/ProjectEuler1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/ProjectEuler1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler1/target/debug/ProjectEuler1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/deps/ProjectEuler1-db4de225ecf44216.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler1/target/debug/deps/ProjectEuler1-db4de225ecf44216.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/deps/ProjectEuler1-db4de225ecf44216.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler1/target/debug/deps/ProjectEuler1-db4de225ecf44216.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/179to4usupb7twxg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/267pusfryl91bxpk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/27osk0u6qihdg2b8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/29b76owpwif4juc6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/29qw25muklv2vgmz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/2d06br2chunlueaw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/2emp1hc2gce6ab2z.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/2pciutgccbt8ugia.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/30djmzcjqvo3kgqq.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/30rheo49zpyd8cew.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/3aajqvt2xxmzl3hk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/3b8xjh1b8fa10ep4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/3oe17r8ob0bp1vfn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/44wk0u4is0jan28f.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/4mw09x1y56txjej1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/4xl95lofunavyggt.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/51l71vxvjdgno2hi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd-zfsph60o1vnl/xkvmwwg2rwbx65g.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/debug/incremental/ProjectEuler1-347vrk9gpjsb1/s-fh9r64ed75-grdwjd.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/release/ProjectEuler1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler1/target/release/ProjectEuler1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/release/ProjectEuler1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler1/target/release/ProjectEuler1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/release/deps/ProjectEuler1-f2ba14e30414f8a9.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler1/target/release/deps/ProjectEuler1-f2ba14e30414f8a9.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler1/target/release/deps/ProjectEuler1-f2ba14e30414f8a9.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler1/target/release/deps/ProjectEuler1-f2ba14e30414f8a9.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectEuler10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler10/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectEuler10/target/debug/ProjectEuler10.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler10/target/debug/ProjectEuler10.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectEuler10/target/debug/ProjectEuler10.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler10/target/debug/ProjectEuler10.pdb" afterDir="false" />
@@ -59,85 +90,36 @@
       <change beforePath="$PROJECT_DIR$/../ProjectEuler10/target/release/ProjectEuler10.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler10/target/release/ProjectEuler10.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectEuler10/target/release/deps/ProjectEuler10-6f03ba29c0f2409f.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler10/target/release/deps/ProjectEuler10-6f03ba29c0f2409f.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectEuler10/target/release/deps/ProjectEuler10-6f03ba29c0f2409f.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler10/target/release/deps/ProjectEuler10-6f03ba29c0f2409f.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ProjectEuler12.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler12.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler12.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler12.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler12.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler12.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler12.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler12.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler12.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler12.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ProjectEuler12.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProjectEuler12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ProjectEuler12.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.10.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.10.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.10.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.10.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.10.3/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.10.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.10.3/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler12.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler12.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler12.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler12.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler12.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler12.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler12.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler12.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler12.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ProjectEuler12.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/feature_tests.cxx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/ProjectEuler12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/ProjectEuler12.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/ProjectEuler12.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/ProjectEuler12.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/ProjectEuler12.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/ProjectEuler12.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/ProjectEuler12-f324c032a5566b2b.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/ProjectEuler12-f324c032a5566b2b.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/ProjectEuler12-f324c032a5566b2b.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/ProjectEuler12-f324c032a5566b2b.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn-36kpa9yuv1h59/18exxnef7tumlmxc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn-36kpa9yuv1h59/1icusg1aa5w9yvqr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn-36kpa9yuv1h59/1itnuk7l006v9zx5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn-36kpa9yuv1h59/1p73lzci1ajnkcf6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn-36kpa9yuv1h59/1uxnzk2rgriryw21.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn-36kpa9yuv1h59/24drs9l7yj1uzbd5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn-36kpa9yuv1h59/2b0bgwns9cpkkf5a.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn-36kpa9yuv1h59/2pqlifakbqylc13n.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn-36kpa9yuv1h59/3strjdaltcwz8rkn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn-36kpa9yuv1h59/3xxj8jv4qp1xcmu6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn-36kpa9yuv1h59/4alfox3qwg1wowdp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn-36kpa9yuv1h59/4cycur060q9a9sf.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn-36kpa9yuv1h59/4mt8r3m61qbajuqt.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn-36kpa9yuv1h59/4svylandhddprdh.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn-36kpa9yuv1h59/4wq3mwderoq1wwiz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn-36kpa9yuv1h59/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn-36kpa9yuv1h59/ez3t8tiou41kjcw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn-36kpa9yuv1h59/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn-36kpa9yuv1h59/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/ProjectEuler12-1q8th0257qb2a/s-fhdzqetm70-1vdv1dn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/release/ProjectEuler12.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/release/ProjectEuler12.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/release/ProjectEuler12.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/release/ProjectEuler12.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/release/deps/ProjectEuler12-313c837c096bbceb.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/release/deps/ProjectEuler12-313c837c096bbceb.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/release/deps/ProjectEuler12-313c837c096bbceb.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/release/deps/ProjectEuler12-313c837c096bbceb.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectEuler3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectEuler3/ProjectEuler3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler3/ProjectEuler3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProjectEuler5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler5/.idea/workspace.xml" afterDir="false" />
@@ -163,6 +145,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="language.rust.rustfmt" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -209,6 +192,7 @@
     </list>
   </component>
   <component name="RustProjectSettings">
+    <option name="runRustfmtOnSave" value="true" />
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
     <option name="version" value="2" />
   </component>
@@ -223,7 +207,12 @@
       <option name="presentableId" value="Default" />
       <updated>1572440595427</updated>
       <workItem from="1572440598667" duration="1800000" />
-      <workItem from="1572450574911" duration="4262000" />
+      <workItem from="1572450574911" duration="4341000" />
+      <workItem from="1572460333303" duration="242000" />
+      <workItem from="1572461041795" duration="124000" />
+      <workItem from="1572461310412" duration="1374000" />
+      <workItem from="1572462843902" duration="218000" />
+      <workItem from="1572463083661" duration="158000" />
     </task>
     <servers />
   </component>
