@@ -25,11 +25,7 @@ fn fibonacci() -> Fibonacci {
 fn main() {
     let now = Instant::now();
 
-    let mut sum = 0;
-
-    for i in fibonacci().take_while(|&x| x < 4000000).filter(|&x| x % 2 == 0) {
-        sum += i;
-    }
+    let sum:u64 = fibonacci().take_while(|&x| x < 4000000).filter(|&x| x % 2 == 0).sum();
 
     println!("Sum: {}", sum);
     println!("Elapsed µs: {}", now.elapsed().as_micros());
